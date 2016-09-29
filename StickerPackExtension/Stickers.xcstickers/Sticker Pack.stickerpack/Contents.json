@@ -1,0 +1,131 @@
+{
+  "stickers" : [
+    {
+      "filename" : "ax.sticker"
+    },
+    {
+      "filename" : "zombie.sticker"
+    },
+    {
+      "filename" : "bat.sticker"
+    },
+    {
+      "filename" : "blood-drop.sticker"
+    },
+    {
+      "filename" : "blood-martini.sticker"
+    },
+    {
+      "filename" : "bomb.sticker"
+    },
+    {
+      "filename" : "brain.sticker"
+    },
+    {
+      "filename" : "Broom.sticker"
+    },
+    {
+      "filename" : "cake.sticker"
+    },
+    {
+      "filename" : "calendar.sticker"
+    },
+    {
+      "filename" : "candle.sticker"
+    },
+    {
+      "filename" : "candy.sticker"
+    },
+    {
+      "filename" : "candy2.sticker"
+    },
+    {
+      "filename" : "coffin.sticker"
+    },
+    {
+      "filename" : "eye.sticker"
+    },
+    {
+      "filename" : "flask.sticker"
+    },
+    {
+      "filename" : "Frankestein.sticker"
+    },
+    {
+      "filename" : "ghost.sticker"
+    },
+    {
+      "filename" : "gift.sticker"
+    },
+    {
+      "filename" : "halloween-candy.sticker"
+    },
+    {
+      "filename" : "harly.sticker"
+    },
+    {
+      "filename" : "hat.sticker"
+    },
+    {
+      "filename" : "heart.sticker"
+    },
+    {
+      "filename" : "jam.sticker"
+    },
+    {
+      "filename" : "joker.sticker"
+    },
+    {
+      "filename" : "leaf.sticker"
+    },
+    {
+      "filename" : "lollypop.sticker"
+    },
+    {
+      "filename" : "mask-of-halloween.sticker"
+    },
+    {
+      "filename" : "Message-Boo.sticker"
+    },
+    {
+      "filename" : "potion.sticker"
+    },
+    {
+      "filename" : "pumpkin.sticker"
+    },
+    {
+      "filename" : "r.i.p.sticker"
+    },
+    {
+      "filename" : "saw.sticker"
+    },
+    {
+      "filename" : "skill.sticker"
+    },
+    {
+      "filename" : "spider.sticker"
+    },
+    {
+      "filename" : "star.sticker"
+    },
+    {
+      "filename" : "tube.sticker"
+    },
+    {
+      "filename" : "vampire.sticker"
+    },
+    {
+      "filename" : "vendetta.sticker"
+    },
+    {
+      "filename" : "zombie-hand.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}
